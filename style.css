@@ -15,6 +15,7 @@ body {
 
 #showcase {
   background-image: url(/img/cave.jpg);
+  background-image: url(https://images.pexels.com/photos/163872/italy-cala-gonone-air-sky-163872.jpeg?cs=srgb&dl=pexels-pixabay-163872.jpg&fm=jpg);
   background-size: cover;
   background-position: center;
   display: flex;
